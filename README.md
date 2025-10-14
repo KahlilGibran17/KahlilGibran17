@@ -35,8 +35,8 @@
 
 <img src="https://cdn.simpleicons.org/wireshark" width="28" alt="Wireshark"/> Wireshark  
 <img src="https://cdn.simpleicons.org/metasploit" width="28" alt="Metasploit"/> Metasploit  
-<img src="https://cdn.simpleicons.org/nmap" width="28" alt="Nmap"/> 
-<img src="https://cdn.simpleicons.org/burp" width="28" alt="Burp Suite"/> Burp Suite  
+[![Nmap](https://img.shields.io/static/v1?label=&message=Nmap&logo=nmap&color=1E90FF&style=for-the-badge)](https://nmap.org)
+[![Burp Suite](https://img.shields.io/static/v1?label=&message=Burp%20Suite&logo=portswigger&color=FF6A00&style=for-the-badge)](https://portswigger.net/burp)
 <img src="https://cdn.simpleicons.org/splunk" width="28" alt="Splunk"/> Splunk  
 <img src="https://cdn.simpleicons.org/elasticsearch" width="28" alt="ELK"/> ELK Stack
 
