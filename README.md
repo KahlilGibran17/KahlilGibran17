@@ -35,7 +35,7 @@
 
 <img src="https://cdn.simpleicons.org/wireshark" width="28" alt="Wireshark"/> Wireshark  
 <img src="https://cdn.simpleicons.org/metasploit" width="28" alt="Metasploit"/> Metasploit  
-<img src="https://cdn.simpleicons.org/nmap" width="28" alt="Nmap"/> Nmap  
+<img src="https://cdn.simpleicons.org/nmap" width="28" alt="Nmap"/> 
 <img src="https://cdn.simpleicons.org/burp" width="28" alt="Burp Suite"/> Burp Suite  
 <img src="https://cdn.simpleicons.org/splunk" width="28" alt="Splunk"/> Splunk  
 <img src="https://cdn.simpleicons.org/elasticsearch" width="28" alt="ELK"/> ELK Stack
