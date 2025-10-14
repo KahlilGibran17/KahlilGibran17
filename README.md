@@ -38,10 +38,6 @@
   <img src="https://cdn.simpleicons.org/metasploit" height="30" alt="metasploit logo" />
   <img width="12" />
 
-  <!-- Nmap: SimpleIcons seringkali tidak punya — gunakan file dari Wikimedia (PNG/SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap.svg" height="30" alt="nmap logo" />
-  <img width="12" />
-
   <!-- Burp Suite (PortSwigger) -->
   <img src="https://cdn.simpleicons.org/portswigger" height="30" alt="portswigger logo" />
   <img width="12" />
@@ -50,6 +46,7 @@
   <img src="https://cdn.simpleicons.org/splunk" height="30" alt="splunk logo" />
   <img width="12" />
 </div>
+
 ---
 
 ### Contact Me
