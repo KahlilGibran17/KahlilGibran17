@@ -30,16 +30,26 @@
 
 ### Cybersecurity Tools
 
-<details>
-<summary>Click to expand</summary>
+<div align="left">
+  <!-- cybersecurity tools (icon-only) -->
+  <img src="https://cdn.simpleicons.org/wireshark" height="30" alt="wireshark logo" />
+  <img width="12" />
 
-<img src="https://cdn.simpleicons.org/wireshark" width="28" alt="Wireshark"/> Wireshark  
-<img src="https://cdn.simpleicons.org/metasploit" width="28" alt="Metasploit"/> Metasploit  
-<img src="https://cdn.simpleicons.org/splunk" width="28" alt="Splunk"/> Splunk  
-<img src="https://cdn.simpleicons.org/elasticsearch" width="28" alt="ELK"/> ELK Stack
+  <img src="https://cdn.simpleicons.org/metasploit" height="30" alt="metasploit logo" />
+  <img width="12" />
 
-</details>
+  <!-- Nmap: SimpleIcons seringkali tidak punya — gunakan file dari Wikimedia (PNG/SVG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap.svg" height="30" alt="nmap logo" />
+  <img width="12" />
 
+  <!-- Burp Suite (PortSwigger) -->
+  <img src="https://cdn.simpleicons.org/portswigger" height="30" alt="portswigger logo" />
+  <img width="12" />
+
+  <!-- SIEM / Logging -->
+  <img src="https://cdn.simpleicons.org/splunk" height="30" alt="splunk logo" />
+  <img width="12" />
+</div>
 ---
 
 ### Contact Me
